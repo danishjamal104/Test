@@ -1,1 +1,1 @@
-this is my git expierence
+This is my first readme using commandline
