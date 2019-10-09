@@ -1,0 +1,54 @@
+Setup and Config
+
+git
+config
+
+Getting and Creating Projects
+
+init
+clone
+
+Basic Snapshotting
+
+add
+status
+diff
+commit
+reset
+
+Branching and Merging
+
+branch
+checkout
+merge
+log
+
+Sharing and Updating Projects
+
+fetch
+pull
+push
+remote
+
+Inspection and Comparison
+
+show
+log
+diff
+
+Patching
+
+apply
+cherry-pick
+diff
+rebase
+revert
+
+Debugging
+
+grep
+
+Email
+
+apply
+format-patch
